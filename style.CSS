@@ -3,6 +3,7 @@
     border: 5px;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 img {
@@ -10,4 +11,8 @@ img {
     height: auto;
 
     vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
 }
