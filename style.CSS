@@ -1,3 +1,14 @@
+html {
+    background-image: url(media/back.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    /*Настройки фоновой картинки, 
+    растягивающие её по длине экрана*/
+    
+}
+
 .avatar {
     width: 500px;
     border: 5px;
