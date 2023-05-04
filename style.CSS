@@ -6,12 +6,12 @@ html {
     background-size: cover;
     /*Настройки фоновой картинки, 
     растягивающие её по длине экрана*/
-    
+
 }
 
 .avatar {
     width: 500px;
-    border: 5px;
+    border: 20px;
     margin: auto;
     padding: 0;
 }
@@ -25,4 +25,10 @@ img {
 
 h1 {
     text-align: center;
+}
+
+.name {
+    background: rgba(0, 170, 255, 0.01);
+    /*Последний параметр регулирует 
+    прозрачность фона элемента*/
 }
